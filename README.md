@@ -18,10 +18,10 @@ tracker.trackEvent("testcategory", "testaction");
 
 ## Use environment's Google Service Version (due to crash on Google Service version 12
 
-You can specify googlePlayServicesVersion in "android/gradle.properties". Otherwise, it will take default version
+You can specify googlePlayServicesAnalyticsVersion in "android/gradle.properties". Otherwise, it will take default version
 
 e.g.
-`googlePlayServicesVersion=11.8.0`
+`googlePlayServicesAnalyticsVersion=11.8.0`
 
 
 
